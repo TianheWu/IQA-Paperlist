@@ -22,3 +22,5 @@
 
 ## ECCV-2020
 - [GIQA: Generated Image Quality Assessment](https://arxiv.org/abs/2003.08932)
+- [PIPAL: A Large-Scale Image Quality Assessment Dataset for Perceptual Image Restoration](https://link.springer.com/chapter/10.1007/978-3-030-58621-8_37)
+- [GIQA: Generated Image Quality Assessment](https://link.springer.com/chapter/10.1007/978-3-030-58621-8_22)
