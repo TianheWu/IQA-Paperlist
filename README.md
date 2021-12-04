@@ -21,6 +21,5 @@
 - [CNN-Based Cross-Dataset No-Reference Image Quality Assessment](https://openaccess.thecvf.com/content_ICCVW_2019/html/LCI/Yang_CNN-Based_Cross-Dataset_No-Reference_Image_Quality_Assessment_ICCVW_2019_paper.html)
 
 ## ECCV-2020
-- [GIQA: Generated Image Quality Assessment](https://arxiv.org/abs/2003.08932)
 - [PIPAL: A Large-Scale Image Quality Assessment Dataset for Perceptual Image Restoration](https://link.springer.com/chapter/10.1007/978-3-030-58621-8_37)
 - [GIQA: Generated Image Quality Assessment](https://link.springer.com/chapter/10.1007/978-3-030-58621-8_22)
