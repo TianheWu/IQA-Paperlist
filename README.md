@@ -1,7 +1,7 @@
 # IQA
 
 ## CVPR-2021
-- [Perceptual Image Quality Assessment With Transformers](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Cheon_Perceptual_Image_Quality_Assessment_With_Transformers_CVPRW_2021_paper.html)
+- [Perceptual Image Quality Assessment With Transformers :relaxed:](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Cheon_Perceptual_Image_Quality_Assessment_With_Transformers_CVPRW_2021_paper.html)
 - [NTIRE 2021 Challenge on Perceptual Image Quality Assessment](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Gu_NTIRE_2021_Challenge_on_Perceptual_Image_Quality_Assessment_CVPRW_2021_paper.html)
 - [Image Quality Assessment Based on Ensemble of Gradient Boosting](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Hammou_EGB_Image_Quality_Assessment_Based_on_Ensemble_of_Gradient_Boosting_CVPRW_2021_paper.html)
 - [Region-Adaptive Deformable Network for Image Quality Assessment](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Shi_Region-Adaptive_Deformable_Network_for_Image_Quality_Assessment_CVPRW_2021_paper.html)
@@ -15,7 +15,8 @@
 - [Adaptive Fractional Dilated Convolution Network for Image Aesthetics Assessment](https://openaccess.thecvf.com/content_CVPR_2020/html/Chen_Adaptive_Fractional_Dilated_Convolution_Network_for_Image_Aesthetics_Assessment_CVPR_2020_paper.html)
 
 ## ICCV-2021
-- [MUSIQ: Multi-Scale Image Quality Transformer](https://openaccess.thecvf.com/content/ICCV2021/html/Ke_MUSIQ_Multi-Scale_Image_Quality_Transformer_ICCV_2021_paper.html)
+- [MUSIQ: Multi-Scale Image Quality Transformer :flushed:](https://openaccess.thecvf.com/content/ICCV2021/html/Ke_MUSIQ_Multi-Scale_Image_Quality_Transformer_ICCV_2021_paper.html)
+- [Learning Conditional Knowledge Distillation for Degraded-Reference Image Quality Assessment](https://arxiv.org/abs/2108.07948)
 
 ## ICCV-2019
 - [CNN-Based Cross-Dataset No-Reference Image Quality Assessment](https://openaccess.thecvf.com/content_ICCVW_2019/html/LCI/Yang_CNN-Based_Cross-Dataset_No-Reference_Image_Quality_Assessment_ICCVW_2019_paper.html)
