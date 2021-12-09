@@ -1,5 +1,5 @@
-# IQA
-
+# Image Quality Assessment
+Record the best paper in IQA field.
 ## CVPR-2021
 - [Perceptual Image Quality Assessment With Transformers :relaxed:](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Cheon_Perceptual_Image_Quality_Assessment_With_Transformers_CVPRW_2021_paper.html)
 - [NTIRE 2021 Challenge on Perceptual Image Quality Assessment](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Gu_NTIRE_2021_Challenge_on_Perceptual_Image_Quality_Assessment_CVPRW_2021_paper.html)
