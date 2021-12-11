@@ -16,7 +16,7 @@ Record the best paper in IQA field.
 
 ## ICCV-2021
 - [MUSIQ: Multi-Scale Image Quality Transformer :flushed:](https://openaccess.thecvf.com/content/ICCV2021/html/Ke_MUSIQ_Multi-Scale_Image_Quality_Transformer_ICCV_2021_paper.html)
-- [Learning Conditional Knowledge Distillation for Degraded-Reference Image Quality Assessment](https://arxiv.org/abs/2108.07948)
+- [Learning Conditional Knowledge Distillation for Degraded-Reference Image Quality Assessment :relaxed:](https://arxiv.org/abs/2108.07948)
 
 ## ICCV-2019
 - [CNN-Based Cross-Dataset No-Reference Image Quality Assessment](https://openaccess.thecvf.com/content_ICCVW_2019/html/LCI/Yang_CNN-Based_Cross-Dataset_No-Reference_Image_Quality_Assessment_ICCVW_2019_paper.html)
