@@ -3,12 +3,17 @@ Record the best paper in IQA field.
 ## arXiv
 - [VTAMIQ: Transformers for Attention Modulated Image Quality Assessment :flushed:](https://arxiv.org/abs/2110.01655)
 
+## ACM Multimedia
+- [Locally Adaptive Structure and Texture Similarity for Image Quality Assessment](https://dl.acm.org/doi/10.1145/3474085.3475419)
+
 ## CVPR-2021
 - [Perceptual Image Quality Assessment With Transformers :relaxed:](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Cheon_Perceptual_Image_Quality_Assessment_With_Transformers_CVPRW_2021_paper.html)
 - [NTIRE 2021 Challenge on Perceptual Image Quality Assessment](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Gu_NTIRE_2021_Challenge_on_Perceptual_Image_Quality_Assessment_CVPRW_2021_paper.html)
 - [Image Quality Assessment Based on Ensemble of Gradient Boosting](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Hammou_EGB_Image_Quality_Assessment_Based_on_Ensemble_of_Gradient_Boosting_CVPRW_2021_paper.html)
 - [Region-Adaptive Deformable Network for Image Quality Assessment :relaxed:](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Shi_Region-Adaptive_Deformable_Network_for_Image_Quality_Assessment_CVPRW_2021_paper.html)
 - [IQMA Network: Image Quality Multi-Scale Assessment Network :relaxed:](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Guo_IQMA_Network_Image_Quality_Multi-Scale_Assessment_Network_CVPRW_2021_paper.html)
+- [Deep Learning-based Distortion Sensitivity Prediction for Full-Reference Image
+Quality Assessment](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Ahn_Deep_Learning-Based_Distortion_Sensitivity_Prediction_for_Full-Reference_Image_Quality_Assessment_CVPRW_2021_paper.html)
 
 ## CVPR-2020
 - [Assessing Image Quality Issues for Real-World Problems](https://openaccess.thecvf.com/content_CVPR_2020/html/Chiu_Assessing_Image_Quality_Issues_for_Real-World_Problems_CVPR_2020_paper.html)
