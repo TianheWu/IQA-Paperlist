@@ -1,10 +1,16 @@
-# Image Quality Assessment
-Record the best paper in IQA field.
+# Image Quality Assessment Paper Reading
 ## arXiv
 - [VTAMIQ: Transformers for Attention Modulated Image Quality Assessment :flushed:](https://arxiv.org/abs/2110.01655)
 
-## ACM Multimedia
+## AAAI-2022
+- [Perceptual Quality Assessment of Omnidirectional Images](https://ojs.aaai.org/index.php/AAAI/article/view/19937)
+- [Content-Variant Reference Image Quality Assessment via Knowledge Distillation](https://ojs.aaai.org/index.php/AAAI/article/view/20221)
+
+## ACM Multimedia-2021
 - [Locally Adaptive Structure and Texture Similarity for Image Quality Assessment](https://dl.acm.org/doi/10.1145/3474085.3475419)
+
+## CVPR-2022
+- [Incorporating Semi-Supervised and Positive-Unlabeled Learning for Boosting Full Reference Image Quality Assessment](https://openaccess.thecvf.com/content/CVPR2022/html/Cao_Incorporating_Semi-Supervised_and_Positive-Unlabeled_Learning_for_Boosting_Full_Reference_Image_CVPR_2022_paper.html)
 
 ## CVPR-2021
 - [Perceptual Image Quality Assessment With Transformers :relaxed:](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Cheon_Perceptual_Image_Quality_Assessment_With_Transformers_CVPRW_2021_paper.html)
