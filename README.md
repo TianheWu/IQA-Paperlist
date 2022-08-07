@@ -42,4 +42,4 @@ Quality Assessment](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/A
 - [Dual-quality map based no reference image quality assessment using deformable convolution](https://www.sciencedirect.com/science/article/pii/S105120042200015X)
 
 ### IET Image Processing
-- [CPDINet: Blind image quality assessment via a contentperception and distortion inference network](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12463)
+- [CPDINet: Blind image quality assessment via a content perception and distortion inference network](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12463)
