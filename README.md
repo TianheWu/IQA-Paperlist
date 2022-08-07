@@ -37,3 +37,6 @@ Quality Assessment](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/A
 ## Journal
 ### APPLIED INTELLIGENCE
 - [A feature‑level full‑reference image denoising quality assessment method based on joint sparse representation](https://link.springer.com/article/10.1007/s10489-021-03052-4)
+
+### DIGITAL SIGNAL PROCESSING
+- [Dual-quality map based no reference image quality assessment using deformable convolution](https://www.sciencedirect.com/science/article/pii/S105120042200015X)
