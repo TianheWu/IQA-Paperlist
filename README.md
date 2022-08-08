@@ -43,3 +43,6 @@ Quality Assessment](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/A
 
 ### IET Image Processing
 - [CPDINet: Blind image quality assessment via a content perception and distortion inference network](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12463)
+
+### Neurocomputing
+- [Blind image quality assessment based on progressive multi-task learning](https://www.sciencedirect.com/science/article/pii/S0925231222006087)
