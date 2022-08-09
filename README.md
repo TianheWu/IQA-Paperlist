@@ -35,6 +35,9 @@ Quality Assessment](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/A
 - [GIQA: Generated Image Quality Assessment](https://link.springer.com/chapter/10.1007/978-3-030-58621-8_22)
 
 ## Journal
+### TPAMI
+- [Continual Learning for Blind Image Quality Assessment](https://ieeexplore.ieee.org/abstract/document/9784904)
+
 ### APPLIED INTELLIGENCE
 - [A feature‑level full‑reference image denoising quality assessment method based on joint sparse representation](https://link.springer.com/article/10.1007/s10489-021-03052-4)
 
