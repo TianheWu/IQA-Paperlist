@@ -24,6 +24,7 @@ Quality Assessment](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/A
 - [Perceptual Quality Assessment of Smartphone Photography](https://openaccess.thecvf.com/content_CVPR_2020/html/Fang_Perceptual_Quality_Assessment_of_Smartphone_Photography_CVPR_2020_paper.html)
 - [MetaIQA: Deep Meta-Learning for No-Reference Image Quality Assessment](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhu_MetaIQA_Deep_Meta-Learning_for_No-Reference_Image_Quality_Assessment_CVPR_2020_paper.html)
 - [Adaptive Fractional Dilated Convolution Network for Image Aesthetics Assessment](https://openaccess.thecvf.com/content_CVPR_2020/html/Chen_Adaptive_Fractional_Dilated_Convolution_Network_for_Image_Aesthetics_Assessment_CVPR_2020_paper.html)
+- [Troubleshooting Blind Image Quality Models in the Wild](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Troubleshooting_Blind_Image_Quality_Models_in_the_Wild_CVPR_2021_paper.html)
 
 ### ICCV
 - [MUSIQ: Multi-Scale Image Quality Transformer](https://openaccess.thecvf.com/content/ICCV2021/html/Ke_MUSIQ_Multi-Scale_Image_Quality_Transformer_ICCV_2021_paper.html)
