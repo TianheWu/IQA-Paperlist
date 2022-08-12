@@ -40,6 +40,9 @@ Quality Assessment](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/A
 - [Continual Learning for Blind Image Quality Assessment](https://ieeexplore.ieee.org/abstract/document/9784904)
 - [Image Quality Assessment: Unifying Structure and Texture Similarity](https://ieeexplore.ieee.org/abstract/document/9298952)
 
+### TIP
+- [Uncertainty-Aware Blind Image Quality Assessment in the Laboratory and Wild](https://ieeexplore.ieee.org/document/9369977)
+
 ### APPLIED INTELLIGENCE
 - [A feature‑level full‑reference image denoising quality assessment method based on joint sparse representation](https://link.springer.com/article/10.1007/s10489-021-03052-4)
 
