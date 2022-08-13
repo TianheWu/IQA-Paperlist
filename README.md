@@ -43,6 +43,9 @@ Quality Assessment](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/A
 ### TIP
 - [Uncertainty-Aware Blind Image Quality Assessment in the Laboratory and Wild](https://ieeexplore.ieee.org/document/9369977)
 
+### IJCV
+- [Comparison of Full-Reference Image Quality Models for Optimization of Image Processing Systems](https://link.springer.com/article/10.1007/s11263-020-01419-7)
+
 ### APPLIED INTELLIGENCE
 - [A feature‑level full‑reference image denoising quality assessment method based on joint sparse representation](https://link.springer.com/article/10.1007/s10489-021-03052-4)
 
