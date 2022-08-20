@@ -9,6 +9,7 @@
 
 ### ACM Multimedia
 - [Locally Adaptive Structure and Texture Similarity for Image Quality Assessment](https://dl.acm.org/doi/10.1145/3474085.3475419)
+- [Towards A No-reference Omnidirectional Image Quality Evaluation By Using Multi-perceptual Features](https://dl.acm.org/doi/10.1145/3549544)
 
 ### CVPR
 - [Incorporating Semi-Supervised and Positive-Unlabeled Learning for Boosting Full Reference Image Quality Assessment](https://openaccess.thecvf.com/content/CVPR2022/html/Cao_Incorporating_Semi-Supervised_and_Positive-Unlabeled_Learning_for_Boosting_Full_Reference_Image_CVPR_2022_paper.html)
