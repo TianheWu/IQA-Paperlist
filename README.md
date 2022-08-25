@@ -36,6 +36,9 @@ Quality Assessment](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/A
 - [PIPAL: A Large-Scale Image Quality Assessment Dataset for Perceptual Image Restoration](https://link.springer.com/chapter/10.1007/978-3-030-58621-8_37)
 - [GIQA: Generated Image Quality Assessment](https://link.springer.com/chapter/10.1007/978-3-030-58621-8_22)
 
+### ISCAS
+- [MC360IQA: THE MULTI-CHANNEL CNN FOR BLIND 360-DEGREE IMAGE QUALITY ASSESSMENT](https://ieeexplore.ieee.org/document/8702664)
+
 ## Journal
 ### TPAMI
 - [Continual Learning for Blind Image Quality Assessment](https://ieeexplore.ieee.org/abstract/document/9784904)
