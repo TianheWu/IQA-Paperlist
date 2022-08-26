@@ -12,6 +12,7 @@
 - [Towards A No-reference Omnidirectional Image Quality Evaluation By Using Multi-perceptual Features](https://dl.acm.org/doi/10.1145/3549544)
 
 ### CVPR
+- [MANIQA: Multi-Dimension Attention Network for No-Reference Image Quality Assessment](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Yang_MANIQA_Multi-Dimension_Attention_Network_for_No-Reference_Image_Quality_Assessment_CVPRW_2022_paper.html)
 - [Incorporating Semi-Supervised and Positive-Unlabeled Learning for Boosting Full Reference Image Quality Assessment](https://openaccess.thecvf.com/content/CVPR2022/html/Cao_Incorporating_Semi-Supervised_and_Positive-Unlabeled_Learning_for_Boosting_Full_Reference_Image_CVPR_2022_paper.html)
 - [Perceptual Image Quality Assessment With Transformers](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Cheon_Perceptual_Image_Quality_Assessment_With_Transformers_CVPRW_2021_paper.html)
 - [NTIRE 2021 Challenge on Perceptual Image Quality Assessment](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Gu_NTIRE_2021_Challenge_on_Perceptual_Image_Quality_Assessment_CVPRW_2021_paper.html)
