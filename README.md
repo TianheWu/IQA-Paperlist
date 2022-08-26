@@ -56,6 +56,9 @@ Quality Assessment](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/A
 ### TMM
 - [Learning-Based Quality Assessment for Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/9512504)
 
+### TCSVT
+- [No-Reference Quality Assessment for 360-degree Images by Analysis of Multi-frequency Information and Local-global Naturalness](https://ieeexplore.ieee.org/abstract/document/9432968)
+
 ### APPLIED INTELLIGENCE
 - [A feature‑level full‑reference image denoising quality assessment method based on joint sparse representation](https://link.springer.com/article/10.1007/s10489-021-03052-4)
 
