@@ -40,6 +40,9 @@ Quality Assessment](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/A
 ### ISCAS
 - [MC360IQA: THE MULTI-CHANNEL CNN FOR BLIND 360-DEGREE IMAGE QUALITY ASSESSMENT](https://ieeexplore.ieee.org/document/8702664)
 
+### ICIP
+- [CVIQD: Subjective quality evaluation of compressed virtual reality images](https://ieeexplore.ieee.org/abstract/document/8296923)
+
 ## Journal
 ### TPAMI
 - [Continual Learning for Blind Image Quality Assessment](https://ieeexplore.ieee.org/abstract/document/9784904)
