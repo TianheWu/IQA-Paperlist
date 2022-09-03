@@ -42,6 +42,7 @@ Quality Assessment](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/A
 
 ### ICIP
 - [CVIQD: Subjective quality evaluation of compressed virtual reality images](https://ieeexplore.ieee.org/abstract/document/8296923)
+- [PERCEPTUALLY-WEIGHTED CNN FOR 360-DEGREE IMAGE QUALITY ASSESSMENT USING VISUAL SCAN-PATH AND JND](https://ieeexplore.ieee.org/abstract/document/9506044)
 
 ## Journal
 ### TPAMI
