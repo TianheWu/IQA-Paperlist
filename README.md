@@ -44,6 +44,9 @@ Quality Assessment](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/A
 - [CVIQD: Subjective quality evaluation of compressed virtual reality images](https://ieeexplore.ieee.org/abstract/document/8296923)
 - [PERCEPTUALLY-WEIGHTED CNN FOR 360-DEGREE IMAGE QUALITY ASSESSMENT USING VISUAL SCAN-PATH AND JND](https://ieeexplore.ieee.org/abstract/document/9506044)
 
+### ICME
+- [Spatial Attention-Based Non-Reference Perceptual Quality Prediction Network for Omnidirectional Images](https://ieeexplore.ieee.org/abstract/document/9428390)
+
 ## Journal
 ### TPAMI
 - [Continual Learning for Blind Image Quality Assessment](https://ieeexplore.ieee.org/abstract/document/9784904)
