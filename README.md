@@ -67,6 +67,7 @@ Quality Assessment](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/A
 ### TCSVT
 - [No-Reference Quality Assessment for 360-degree Images by Analysis of Multi-frequency Information and Local-global Naturalness](https://ieeexplore.ieee.org/abstract/document/9432968)
 - [Blind Omnidirectional Image Quality Assessment With Viewport Oriented Graph Convolutional NetworksJiah](https://ieeexplore.ieee.org/abstract/document/9163077)
+- [Multi-Angle Projection Based Blind Omnidirectional Image Quality Assessment](https://ieeexplore.ieee.org/abstract/document/9614114)
 
 ### APPLIED INTELLIGENCE
 - [A feature‑level full‑reference image denoising quality assessment method based on joint sparse representation](https://link.springer.com/article/10.1007/s10489-021-03052-4)
